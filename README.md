@@ -1,7 +1,35 @@
-# Domun
+# Domus
 
-My very first big project
+A house domotic proyect
 
 ## Name
 
-From latin, household.
+From latin, household. All the others name are different spells from Harry Potter.
+
+## Overview
+
+The main idea is get a general picture about the state of the house, that include:
+
+- Water level
+- Gas sensor
+- Electricty compsumtion
+
+## Arduinos
+
+This proyect have (for now) 4 arduino, each one with an specifict purpouse and name
+
+### Imperius
+
+This is the central that control everthing.
+
+### Aguamenti
+
+This control the water level
+
+### Baubilious
+
+This measure the electricity compsumtion
+
+### Garroting gas
+
+This is a gas leack sensor kit
