@@ -1,5 +1,7 @@
 // Sensor Pin
 #define mq2 A0
+// Thereshold to warning
+#define threshold 200
 
 int sensorValue = 0;
 
@@ -11,6 +13,9 @@ void setup() {
 void loop() {
   sensorValue = analogRead(mq2);
 
-
-  delay(500);
+  if (sensorValue > threshold) {
+    digitalWrite(LED_BUILTIN, HIGH);
+  } else {
+    digitalWrite(LED_BUILTIN, LOW);
+  }
 }

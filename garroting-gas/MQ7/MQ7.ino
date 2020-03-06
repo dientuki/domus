@@ -1,5 +1,5 @@
 // Sensor Pin
-#define mq4 A1
+#define mq7 A3
 // Thereshold to warning
 #define threshold 200
 
@@ -11,7 +11,7 @@ void setup() {
 }
 
 void loop() {
-  sensorValue = analogRead(mq4);
+  sensorValue = analogRead(mq7);
 
   if (sensorValue > threshold) {
     digitalWrite(LED_BUILTIN, HIGH);

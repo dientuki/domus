@@ -1,3 +1,8 @@
+// Sensor Pin
+#define mq5 A2
+// Thereshold to warning
+#define threshold 200
+
 int sensorValue = 0;
 
 void setup() {
@@ -6,14 +11,11 @@ void setup() {
 }
 
 void loop() {
-  sensorValue = analogRead(A0);
-  Serial.println(sensorValue, DEC);
+  sensorValue = analogRead(mq5);
 
-  if (sensorValue > 500) {
-    //Serial.println("peligro");
+  if (sensorValue > threshold) {
     digitalWrite(LED_BUILTIN, HIGH);
   } else {
     digitalWrite(LED_BUILTIN, LOW);
   }
-  delay(500);
 }
