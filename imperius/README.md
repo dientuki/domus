@@ -9,12 +9,19 @@ From [here](https://harrypotter.fandom.com/wiki/Imperius_Curse)
 
 ### Nokia 5110 LCD display
 
-### Esp8266 V2
+It's use a low power consumption Nokia 5110 LCD display with a KY-018 phothoresistor to turn on/off the backlight
 
-### KY-018
+### Comunication with internet
 
+It's use a Esp8266 V2
 
+### Alarm system
 
+It's use a KY-011 bicolor led and a KY-006 passive buzzer
+
+### Internal network
+
+It's use a nrf24l01
 
 
 ## More links

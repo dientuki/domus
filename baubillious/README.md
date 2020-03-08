@@ -14,6 +14,9 @@ Arduino pro mini 5V
 
 ### ACS712-30A
 
+### Comunication
+
+It's use a Nrf21l01 transceiver
 
 ## Power consumption
 
@@ -24,5 +27,5 @@ Arduino pro mini 5V
 | ACS712-20A | 11mA        |
 | ACS712-20A | 11mA        |
 | ACS712-30A | 11mA        |
-| Radio      |             |
-|    Total   |     64mA    |
+| Nrf24l01   | 12mA        |
+|    Total   |     86mA    |
