@@ -1,7 +1,7 @@
 // Sensor Pin
 #define mq5 A2
 // Thereshold to warning
-#define threshold 200
+#define threshold 150
 
 int sensorValue = 0;
 

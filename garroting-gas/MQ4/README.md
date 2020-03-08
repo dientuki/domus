@@ -4,4 +4,4 @@ It's use an [MQ4](http://arduinolearning.com/gas-sensors/mq-4-gas-sensor.php). A
 
 ## Calibration
 
-After some test, the best value is 200, more than that is risky.
+After some test, the best value is 150, more than that is risky.

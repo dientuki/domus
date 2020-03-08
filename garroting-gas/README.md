@@ -6,13 +6,13 @@ From [here](https://harrypotter.fandom.com/wiki/Garrotting_Gas), a Harry Potter 
 
 ## Parts
 
-### Gas leack sensor
-
-It's use an MQ4 Sensor
-
 ### Smoke sensor
 
 It's use an MQ2 Sensor
+
+### Gas leack sensor
+
+It's use an MQ4 Sensor
 
 ### Monoxide sensor
 
@@ -29,3 +29,20 @@ It's use a ----
 ### Power supply
 
 It's use a transformador with a battery backup when the main power is gone.
+
+## Power consumption
+
+| Part    | Consumption |
+|---------|-------------|
+| Arduino |  20mA       |
+| MQ2     | 150mA       |
+| MQ4     | 150mA       |
+| MQ7     | 150mA       |
+| Ky-006  |  N/A        |
+| Ky-011  |  10mA       |
+|  Total  |       480mA |
+
+
+## Links
+
+[Arduino Pro Mini Power Consumption](http://www.home-automation-community.com/arduino-low-power-how-to-run-atmega328p-for-a-year-on-coin-cell-battery/)
