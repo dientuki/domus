@@ -6,6 +6,10 @@ From [here](https://harrypotter.fandom.com/wiki/Garrotting_Gas), a Harry Potter 
 
 ## Parts
 
+### Arduino
+
+Arduino pro mini 5V
+
 ### Smoke sensor
 
 It's use an MQ2 Sensor
