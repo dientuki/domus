@@ -36,15 +36,16 @@ It's use a transformador with a battery backup when the main power is gone.
 
 ## Power consumption
 
-| Part    | Consumption |
-|---------|-------------|
-| Arduino |  20mA       |
-| MQ2     | 150mA       |
-| MQ4     | 150mA       |
-| MQ7     | 150mA       |
-| Ky-006  |  N/A        |
-| Ky-011  |  10mA       |
-|  Total  |       480mA |
+| Part     | Consumption |
+|----------|-------------|
+| Arduino  |  20mA       |
+| MQ2      | 150mA       |
+| MQ4      | 150mA       |
+| MQ7      | 150mA       |
+| Ky-006   |  N/A        |
+| Ky-011   |  10mA       |
+| Nrf24l01 |  12mA       |
+|  Total   |       492mA |
 
 
 ## Links
