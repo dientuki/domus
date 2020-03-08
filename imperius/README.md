@@ -23,6 +23,9 @@ It's use a KY-011 bicolor led and a KY-006 passive buzzer
 
 It's use a nrf24l01
 
+### Data logger
+
+It's use a sd card module with a RTC module
 
 ## More links
 
