@@ -28,7 +28,7 @@ It's use a KY-011 bicolor led and a KY-006 passive buzzer
 
 ### Comunication
 
-It's use a ----
+It's use a Nrf21l01 transceiver
 
 ### Power supply
 
