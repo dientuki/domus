@@ -12,7 +12,7 @@ The main idea is get a general picture about the state of the house, that includ
 
 - Water level
 - Gas sensor
-- Electricty compsumtion
+- Electricty consumption
 
 ## Arduinos
 
@@ -28,7 +28,7 @@ This control the water level
 
 ### Baubilious
 
-This measure the electricity compsumtion
+This measure the electricity consumption
 
 ### Garroting gas
 
