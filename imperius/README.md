@@ -27,6 +27,11 @@ It's use a nrf24l01
 
 It's use a sd card module with a RTC module
 
+## Aditional components
+
+- 1 - 10µF Filter capacitor
+- 2 - 330Ω Resistor
+
 ## More links
 
 ### Data logger

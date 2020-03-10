@@ -18,6 +18,10 @@ Arduino pro mini 5V
 
 It's use a Nrf21l01 transceiver
 
+## Aditional components
+
+- 1 - 10µF Filter capacitor
+
 ## Power consumption
 
 | Part       | Consumption |

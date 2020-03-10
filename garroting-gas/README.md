@@ -34,6 +34,11 @@ It's use a Nrf21l01 transceiver
 
 It's use a transformador with a battery backup when the main power is gone.
 
+## Aditional components
+
+- 1 - 10µF Filter capacitor
+- 2 - 330Ω Resistor
+
 ## Power consumption
 
 | Part     | Consumption |
