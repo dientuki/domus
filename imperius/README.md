@@ -53,6 +53,10 @@ https://forum.arduino.cc/index.php?topic=89719.0
 [network](https://howtomechatronics.com/tutorials/arduino/how-to-build-an-arduino-wireless-network-with-multiple-nrf24l01-modules/)
 [only for cry](https://www.youtube.com/watch?v=_RJhnRtnS-8)
 
+https://forum.arduino.cc/index.php?topic=438463.0
+https://forum.arduino.cc/index.php?topic=435717.msg3004360#msg3004360
+https://forum.arduino.cc/index.php?topic=507086.0
+
 ### Multiple SPI
 
 https://forum.arduino.cc/index.php?topic=519774.0

@@ -1,4 +1,4 @@
-int mqs[] = {150, 150};
+int mqs[] = {150, 150, 150};
 int values[] = {};
 int sensorValue = 0;
 
